@@ -69,6 +69,7 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 <img align="right" height="700" width="400" alt="Iron Man" src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/assets/iron_man.jfif" />
 
 <br>
+
 <!-- Languages and Tools -->
 
 ### 💻Languages and Tools:
@@ -92,6 +93,7 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> 
 
 <br>
+
 <!--Github Stats-->
 
 ### 📊Github Stats
@@ -101,6 +103,7 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 ![Abhijeets's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhijeetSrivastav&show_icons=true&theme=radical&align="middle")
 
 <br>
+
 <!--Support-->
 
 ### 💳Support for Open Source   
@@ -120,6 +123,3 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
   <br>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbhijeetSrivastav&repo=Stats-Buddy&theme=radical)](https://github.com/AbhijeetSrivastav/Stats-Buddy)
-
-
-
