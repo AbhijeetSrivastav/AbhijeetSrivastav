@@ -81,12 +81,11 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 <img align="right" height="500" width="300" alt="Iron Man" src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/assets/iron_man.jfif" />
 
 
-
+<br>
+<br>
 <!--Languages and Tools-->
 
 ### 💻 Languages and Tools:
-
-<br>
 
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
 
@@ -106,12 +105,12 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> 
 
-
+<br>
+<br>
+<br>
 <!--Github Stats-->
 
 ### 📊 Github Stats
-
-<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijeetSrivastav&layout=compact&theme=radical&align="middle")](https://github.com/anuraghazra/github-readme-stats)
 
