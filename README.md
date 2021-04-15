@@ -41,30 +41,29 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 <details>	
   <summary><b>♥ My Favourites</b></summary>
   
-  <br>
-
-💻   I love exploring new tech and building cool stuffs.
-📰   Reading & writing diary
-🤖   Building Robots
+  
+  <br> 💻  I love exploring new tech and building cool stuffs.
+  <br>📰   Reading & writing diary
+  <br>🤖   Building Robots
 
 </details>
 
 <br>
+
 <details>	
   <summary><b>⚙ My Machine</b></summary>
-  
-  <br>
 
-OS: Linux, Windows 10
-Laptop: ROG Strix
-Processor: Intel(R) Core(TM) i7-9750H 
-CPU:  @ 2.60GHz   2.59 GHz
-Browser: Firefox Web Browser
-Terminal: Linux Shell, CMD
-Code Editor: Pycharm, Jupyter, Android Studio, Atom
+  <br> OS: Linux, Windows 10
+  <br> Laptop: ROG Strix
+  <br> Processor: Intel(R) Core(TM) i7-9750H 
+  <br> CPU:  @ 2.60GHz   2.59 GHz
+  <br> Browser: Firefox Web Browser
+  <br> Terminal: Linux Shell, CMD
+  <br> Code Editor: Pycharm, Jupyter, Android Studio, Atom
 
 </details>
 
+<br>
 
 <!-- Languages and Tools -->
 
@@ -98,19 +97,27 @@ Code Editor: Pycharm, Jupyter, Android Studio, Atom
 
 ![Abhijeets's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhijeetSrivastav&show_icons=true&theme=radical&align="middle")
 
+<br>
 
 ### 💳 Support for Open Source
 
+<br>
+
 [![PayPal Badge](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)](https://paypal.me/abhijeetsrivastav?locale.x=en_GB)
 
+<br>
+
+<!--Open Source Contribution Needed-->
 
 ### COVID APP Contribution 
 
-<p>
-  😷This is a Covid Stats application written in flutter and provides status of corona virus.
-  💁‍♂️For welfare of society contribute code for betterment of the application.
-  ⚡Just Fork and contribute some code!
-  📞Call your fellow devs for contribution too.
+
+  <br>😷This is a Covid Stats application written in flutter and provides status of corona virus.
+  <br>💁‍♂️For welfare of society contribute code for betterment of the application.
+  <br>⚡Just Fork and contribute some code!
+  <br>📞Call your fellow devs for contribution too.
+  
+  <br>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbhijeetSrivastav&repo=Stats-Buddy)](https://github.com/AbhijeetSrivastav/Stats-Buddy)
 
