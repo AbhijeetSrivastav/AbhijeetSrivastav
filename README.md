@@ -68,7 +68,6 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 
 <img align="right" height="700" width="400" alt="Iron Man" src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/assets/iron_man.jfif" />
 
-<br>
 
 <!-- Languages and Tools -->
 
@@ -92,7 +91,6 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> 
 
-<br>
 
 <!--Github Stats-->
 ### 📊 Github Stats
