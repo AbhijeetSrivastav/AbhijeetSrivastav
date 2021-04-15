@@ -71,7 +71,7 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 <br>
 <!-- Languages and Tools -->
 
-### 💻 Languages and Tools:
+### 💻Languages and Tools:
 
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
 
@@ -93,7 +93,8 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 
 <br>
 <!--Github Stats-->
-### 📊 Github Stats
+
+### 📊Github Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijeetSrivastav&layout=compact&theme=radical&align="middle")](https://github.com/anuraghazra/github-readme-stats)
 
@@ -102,12 +103,14 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 <br>
 <!--Support-->
 
-### 💳 Support for Open Source   [![PayPal Badge](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)](https://paypal.me/abhijeetsrivastav?locale.x=en_GB)
+### 💳Support for Open Source   
+
+[![PayPal Badge](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)](https://paypal.me/abhijeetsrivastav?locale.x=en_GB)
 
 
 <!--Open Source Contribution Needed-->
 
-### COVID APP Contribution 
+### 📱COVID APP Contribution 
 
   <br>😷This is a Covid Stats application written in flutter and provides status of corona virus.
   <br>💁‍♂️For welfare of society contribute code for betterment of the application.
