@@ -67,9 +67,8 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 
 <!-- Image-->
 
-<img align="right" height="900" width="400" alt="Iron Man" src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/assets/iron_man.jfif" />
+<img align="right" height="600" width="300" alt="Iron Man" src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/assets/iron_man.jfif" />
 
-<br>
 <br>
 
 <!-- Languages and Tools -->
