@@ -41,27 +41,34 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 <details>	
   <summary><b>♥ My Favourites</b></summary>
   
+  <ul>
+  <li>💻  I love exploring new tech and building cool stuffs </li>
+  <li>📰   Reading & writing diary </li>
+  <li>🤖   Building Robots </li>
+  </ul>
   
-  <br> 💻  I love exploring new tech and building cool stuffs.
-  <br>📰   Reading & writing diary
-  <br>🤖   Building Robots
-
 </details>
 
 <br>
 
 <details>	
   <summary><b>⚙ My Machine</b></summary>
-
-  <br> OS: Linux, Windows 10
-  <br> Laptop: ROG Strix
-  <br> Processor: Intel(R) Core(TM) i7-9750H 
-  <br> CPU:  @ 2.60GHz   2.59 GHz
-  <br> Browser: Firefox Web Browser
-  <br> Terminal: Linux Shell, CMD
-  <br> Code Editor: Pycharm, Jupyter, Android Studio, Atom
+  
+  <ul>
+  <li> <b> OS: </b> Linux, Windows 10 </li>
+  <li> <b> Laptop: </b> ROG Strix </li>
+  <li> <b> Processor: </b> Intel(R) Core(TM) i7-9750H  </li>
+  <li> <b> CPU: </b> @ 2.60GHz   2.59 GHz </li>
+  <li> <b> Browser: </b> Firefox Web Browser </li>
+  <li> <b> Terminal: </b> Linux Shell, CMD </li>
+  <li> <b> Code Editor: </b> Pycharm, Jupyter, Android Studio, Atom </li>
+  </ul>
 
 </details>
+
+<!-- Image-->
+
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 <br>
 
