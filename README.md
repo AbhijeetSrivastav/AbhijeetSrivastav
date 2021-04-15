@@ -36,8 +36,8 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 
 </details>
 
-
 <br>
+
 <details>	
   <summary><b>♥ My Favourites</b></summary>
   
@@ -49,7 +49,6 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
   
 </details>
 
-<br>
 
 <details>	
   <summary><b>⚙ My Machine</b></summary>
@@ -68,7 +67,7 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 
 <!-- Image-->
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="500" width="300" alt="Iron Man" src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/assets/iron_man.jfif" />
 
 <br>
 
@@ -126,7 +125,7 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
   
   <br>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbhijeetSrivastav&repo=Stats-Buddy)](https://github.com/AbhijeetSrivastav/Stats-Buddy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbhijeetSrivastav&repo=Stats-Buddy&theme=radical)](https://github.com/AbhijeetSrivastav/Stats-Buddy)
 
 
 
