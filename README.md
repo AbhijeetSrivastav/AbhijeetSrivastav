@@ -104,6 +104,7 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 
 <br>
 <!--Support-->
+
 ### 💳 Support for Open Source
 
 <br>
@@ -115,6 +116,7 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 
 <br>
 <!--Open Source Contribution Needed-->
+
 ### COVID APP Contribution 
 
   <br>😷This is a Covid Stats application written in flutter and provides status of corona virus.
