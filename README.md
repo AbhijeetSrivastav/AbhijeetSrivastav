@@ -18,23 +18,29 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 <details>	
   <summary><b>⚡ More About me</b></summary>
   
-  <br>
-  <p align="middle">
+
+  <p>
     My passion lies in building AI solutions which take theoretical data science models and helping scale them out to production-level models that can handle terabytes of real-     time data. I am able to jump across verticals to deliver high-performing AI solutions.
+  </p>
 
+  <p>
+    In my graduate studies, I’ve taken on various leadership roles, including position of head researcher of CSI Branch Lucknow, coordinating Google Developer Group, and leading
+    online developer groups and events.
 
-  In my graduate studies, I’ve taken on various leadership roles, including position of head researcher of CSI Branch Lucknow, coordinating Google Developer Group, and leading online developer groups and events.
-
-
-  I also interned at Indian Institute of Technology Kanpur as a Python developer and Cyber Security researcher.
-
-  I am founder of a Indian developer and computer enthusiasts community , Techneophyte
-
-  I'm graduating in April 2022 and I'm interested in full-time machine learning or data science roles. Please feel free to get in touch with me via email at            abhijeetsrivastav292@gmail.com
-  
+  <p>
+    I also interned at Indian Institute of Technology Kanpur as a Python developer and Cyber Security researcher.
   </p>
   
-
+  <p>
+    I am founder of a Indian developer and computer enthusiasts community , Techneophyte
+  </p>
+  
+  <p>
+    I'm graduating in April 2022 and I'm interested in full-time machine learning or data science roles. Please feel free to get in touch with me via email at 
+    abhijeetsrivastav292@gmail.com
+  </p>
+ 
+  
 </details>
 
 
@@ -69,7 +75,7 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 
 <img align="right" height="500" width="300" alt="Iron Man" src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/assets/iron_man.jfif" />
 
-<br>
+
 
 <!--Languages and Tools-->
 
@@ -93,8 +99,6 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> 
 
-
-<br>
 
 <!--Github Stats-->
 
