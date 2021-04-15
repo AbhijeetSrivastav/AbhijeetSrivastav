@@ -67,7 +67,7 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 
 <!-- Image-->
 
-<img align="right" height="600" width="300" alt="Iron Man" src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/assets/iron_man.jfif" />
+<img align="right" height="500" width="300" alt="Iron Man" src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/assets/iron_man.jfif" />
 
 <br>
 
@@ -93,11 +93,11 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> 
 
-<br>
+
 <br>
 
 <!--Github Stats-->
-
+<br>
 ### 📊Github Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijeetSrivastav&layout=compact&theme=radical&align="middle")](https://github.com/anuraghazra/github-readme-stats)
