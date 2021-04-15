@@ -35,9 +35,11 @@ Here are some ideas to get you started:
 
 
 <p align="middle">
-[![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijeetSrivastav&langs_count=10)](https://github.com/AbhijeetSrivastav/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijeetSrivastav&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Abhijeets's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhijeetSrivastav&show_icons=true&theme=radical)](https://github.com/AbhijeetSrivastav/github-readme-stats)
+![Abhijeets's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhijeetSrivastav&show_icons=true&theme=radical)
+
 
 </p>
 
