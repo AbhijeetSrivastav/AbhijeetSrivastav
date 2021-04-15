@@ -82,7 +82,6 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 
 
 <br>
-<br>
 <!--Languages and Tools-->
 
 ### 💻 Languages and Tools:
@@ -108,6 +107,7 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 <br>
 <br>
 <br>
+
 <!--Github Stats-->
 
 ### 📊 Github Stats
