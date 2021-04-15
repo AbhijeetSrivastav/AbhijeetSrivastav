@@ -19,7 +19,7 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
   <summary><b>⚡ More About me</b></summary>
   
   <br>
-  <p aligned="middle">
+  <p align="middle">
     My passion lies in building AI solutions which take theoretical data science models and helping scale them out to production-level models that can handle terabytes of real-     time data. I am able to jump across verticals to deliver high-performing AI solutions.
 
 
@@ -67,7 +67,7 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 
 <!-- Image-->
 
-<img align="right" height="500" width="300" alt="Iron Man" src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/assets/iron_man.jfif" />
+<img align="right" height="700" width="400" alt="Iron Man" src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/assets/iron_man.jfif" />
 
 <br>
 
@@ -96,7 +96,6 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 <br>
 
 <!--Github Stats-->
-
 ### 📊 Github Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijeetSrivastav&layout=compact&theme=radical&align="middle")](https://github.com/anuraghazra/github-readme-stats)
@@ -104,19 +103,19 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 ![Abhijeets's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhijeetSrivastav&show_icons=true&theme=radical&align="middle")
 
 <br>
-
+<!--Support-->
 ### 💳 Support for Open Source
 
 <br>
+<p align="middle">
+  
+  [![PayPal Badge](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)](https://paypal.me/abhijeetsrivastav?locale.x=en_GB)
 
-[![PayPal Badge](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)](https://paypal.me/abhijeetsrivastav?locale.x=en_GB)
+</p>
 
 <br>
-
 <!--Open Source Contribution Needed-->
-
 ### COVID APP Contribution 
-
 
   <br>😷This is a Covid Stats application written in flutter and provides status of corona virus.
   <br>💁‍♂️For welfare of society contribute code for betterment of the application.
