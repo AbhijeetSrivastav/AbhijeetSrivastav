@@ -116,7 +116,6 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 
 ![Abhijeets's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhijeetSrivastav&show_icons=true&theme=radical&align="middle")
 
-<br>
 
 <!--Support-->
 
@@ -129,10 +128,10 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 
 ### 📱 COVID APP Contribution 
 
-  <br>😷This is a Covid Stats application written in flutter and provides status of corona virus.
-  <br>💁‍♂️For welfare of society contribute code for betterment of the application.
-  <br>⚡Just Fork and contribute some code!
-  <br>📞Call your fellow devs for contribution too.
+  😷This is a Covid Stats application written in flutter and provides status of corona virus.
+  💁‍♂️For welfare of society contribute code for betterment of the application.
+  ⚡Just Fork and contribute some code!
+  📞Call your fellow devs for contribution too.
   
   <br>
   
