@@ -18,7 +18,8 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 <details>	
   <summary><b>⚡ More About me</b></summary>
   
-
+  <br>
+  
   <p>
     My passion lies in building AI solutions which take theoretical data science models and helping scale them out to production-level models that can handle terabytes of real-     time data. I am able to jump across verticals to deliver high-performing AI solutions.
   </p>
@@ -47,6 +48,8 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 <details>	
   <summary><b>♥ My Favourites</b></summary>
   
+  <br>
+  
   <ul>
   <li>💻  I love exploring new tech and building cool stuffs </li>
   <li>📰   Reading & writing diary </li>
@@ -58,6 +61,8 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 
 <details>	
   <summary><b>⚙ My Machine</b></summary>
+  
+  <br>
   
   <ul>
   <li> <b> OS: </b> Linux, Windows 10 </li>
@@ -81,6 +86,8 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 
 ### 💻 Languages and Tools:
 
+<br>
+
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
@@ -103,6 +110,8 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 <!--Github Stats-->
 
 ### 📊 Github Stats
+
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijeetSrivastav&layout=compact&theme=radical&align="middle")](https://github.com/anuraghazra/github-readme-stats)
 
