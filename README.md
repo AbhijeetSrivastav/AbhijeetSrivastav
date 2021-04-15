@@ -33,6 +33,10 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
   I'm graduating in April 2022 and I'm interested in full-time machine learning or data science roles. Please feel free to get in touch with me via email at            abhijeetsrivastav292@gmail.com
   
   </p>
+  
+<!-- Image-->
+
+<img align="right" height="900" width="4000" alt="Iron Man" src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/assets/iron_man.jfif" />
 
 </details>
 
@@ -64,9 +68,7 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 
 </details>
 
-<!-- Image-->
 
-<img align="right" height="1000" width="350" alt="Iron Man" src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/assets/iron_man.jfif" />
 
 <br>
 
