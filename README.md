@@ -34,9 +34,6 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
   
   </p>
   
-<!-- Image-->
-
-<img align="right" height="900" width="4000" alt="Iron Man" src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/assets/iron_man.jfif" />
 
 </details>
 
@@ -68,7 +65,9 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 
 </details>
 
+<!-- Image-->
 
+<img align="right" height="900" width="4000" alt="Iron Man" src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/assets/iron_man.jfif" />
 
 <br>
 
@@ -94,6 +93,7 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> 
 
+<br>
 <br>
 
 <!--Github Stats-->
