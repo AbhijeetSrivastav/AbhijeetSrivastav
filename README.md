@@ -128,10 +128,10 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 
 ### 📱 COVID APP Contribution 
 
-  😷This is a Covid Stats application written in flutter and provides status of corona virus.
-  💁‍♂️For welfare of society contribute code for betterment of the application.
-  ⚡Just Fork and contribute some code!
-  📞Call your fellow devs for contribution too.
+  <li>😷This is a Covid Stats application written in flutter and provides status of corona virus. </li>
+  <li>💁‍♂️For welfare of society contribute code for betterment of the application. </li>
+  <li>⚡Just Fork and contribute some code! </li>
+  <li>📞Call your fellow devs for contribution too. </li>
   
   <br>
   
