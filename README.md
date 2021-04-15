@@ -1,7 +1,14 @@
 ### नमस्ते (Namaste)🙏🏻, I am Abhijeet Srivastav!
 
-<!--
-**AbhijeetSrivastav/AbhijeetSrivastav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/abhijeet-srivastav)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/abhijeet.codes/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abhijeetsrivastav292@gmail.com )
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCpSSZFXUrzE0wMAwZLD5yRg)
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EyQtkNlHQgE7AX7MBTkPsm)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://abhijeetsrivastav-techneophyte.medium.com/)
+
+
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=AbhijeetSrivastav.AbhijeetSrivastav&style=flat-square&color=0088cc)
 
 Here are some ideas to get you started:
 
@@ -13,23 +20,34 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 ### 🔨 Languages and Tools:
 
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
+
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
+
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/python/python.svg"></a>
+
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/android/android.svg"> </a>
-<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/flutter/flutter.svg"></a>
+
+<a href="https://flutter.dev/" target="_blank"><img align="left" alt="Flutter" height ="42px" src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/flutter/flutter.svg"></a>
+
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/dart/dart.svg"></a>
+
+<a href="https://dart.dev/" target="_blank"><img align="left" alt="Dart" height ="42px" src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/dart/dart.svg"></a>
+
 <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> 
 
 <br>
 
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+</details>
 
 ### 📊 Github Stats
 
