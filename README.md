@@ -36,7 +36,6 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 
 </details>
 
-<br>
 
 <details>	
   <summary><b>♥ My Favourites</b></summary>
