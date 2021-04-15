@@ -14,7 +14,7 @@
 
 I am an aspiring machine learning engineer who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in engineering, statistics, and machine learning.
 
-<br>
+
 <details>	
   <summary><b>⚡ More About me</b></summary>
   
@@ -108,7 +108,6 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
 ### 💳 Support for Open Source   [![PayPal Badge](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)](https://paypal.me/abhijeetsrivastav?locale.x=en_GB)
 
 
-<br>
 <!--Open Source Contribution Needed-->
 
 ### COVID APP Contribution 
