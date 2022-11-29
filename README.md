@@ -2,13 +2,7 @@
 
 <!-- Social Badges -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeet-srivastav-02245a18b/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/abhijeet.codes/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abhijeetsrivastav292@gmail.com )
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCpSSZFXUrzE0wMAwZLD5yRg)
-[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EyQtkNlHQgE7AX7MBTkPsm)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://abhijeetsrivastav-techneophyte.medium.com/)
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=AbhijeetSrivastav.AbhijeetSrivastav&style=flat-square&color=0088cc)
+
 
 <!--About me-->
 
