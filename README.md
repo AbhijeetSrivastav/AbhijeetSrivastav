@@ -30,10 +30,7 @@ I am an aspiring machine learning engineer who enjoys connecting the dots: be it
     I am founder of a Indian developer and computer enthusiasts community , Techneophyte
   </p>
   
-  <p>
-    I'm graduating in April 2022 and I'm interested in full-time machine learning or data science roles. Please feel free to get in touch with me via email at 
-    abhijeetsrivastav292@gmail.com
-  </p>
+ 
  
   
 </details>
