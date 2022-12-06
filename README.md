@@ -6,7 +6,7 @@
 
 <!--About me-->
 
-I am an aspiring machine learning engineer who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in engineering, statistics, and machine learning.
+I am an aspiring Data scientist who enjoys connecting the dots: ideas from different disciplines, people from other teams, or applications from various industries. I have an academic background in computer engineering, statistics, and machine learning.
 
 
 <details>	
