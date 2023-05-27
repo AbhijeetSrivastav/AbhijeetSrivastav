@@ -6,7 +6,9 @@
 
 <!--About me-->
 
-I am an aspiring Data scientist who enjoys connecting the dots: ideas from different disciplines, people from other teams, or applications from various industries. I have an academic background in computer engineering, statistics, and machine learning.
+Highly motivated and ambitious graduate with a strong educational background and a passion for solving
+complex problems using data-driven insights. Proficient in statistical analysis, machine learning, and data
+science. Skilled in extracting meaningful patterns from large datasets and presenting findings to stakeholders, seeking an entry-level position to contribute to an organization's data-driven decision-making and success.
 
 
 <details>	
@@ -27,7 +29,7 @@ I am an aspiring Data scientist who enjoys connecting the dots: ideas from diffe
   </p>
   
   <p>
-    I am founder of a Indian developer and computer enthusiasts community , Techneophyte
+    I founded a community for AI and Data Science enthusiast named "NeuralWay"
   </p>
   
  
